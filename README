@@ -1,0 +1,5 @@
+Displays a 24-hour binary clock on the sense hat, but does so using multiple files
+compiled together.
+The program also demonstrates printing debugging
+information to stderr.Read the Makefile, then compile using "make all". To exit the program,
+enter less than three digits in the formatted time or CTRL-C.
